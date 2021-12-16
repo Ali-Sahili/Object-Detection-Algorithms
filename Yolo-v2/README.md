@@ -43,4 +43,4 @@ Next step is to download your dataset and change the path directory. And then en
 
 
 # Acknowledgment
-[uvipen](https://github.com/uvipen/Yolo-v2-pytorch).
+Thanks to the implementation done by [uvipen](https://github.com/uvipen/Yolo-v2-pytorch).

@@ -1,9 +1,7 @@
 # YOLO Implementation
 This part includes the Pytorch implementation of YOLO-v1 architecture for object detection publised by [Redmon et al.](https://arxiv.org/pdf/1506.02640.pdf).
 
-<p float="center">
-  <img src="yolov1_architecture.png" width="520" />
-</p>
+![](yolov1_architecture.png)
 
 ## Introduction
 YOLO stands for You Only Look Once. As the name says, network only looks the image once to detect multiple objects. The main improvement on this paper is the detection speed (~45 fps).

@@ -1,9 +1,8 @@
 # SSD Implementation
 Implememtation of Single Shot Detector (SSD) architecture introduced by [Liu et al.](https://arxiv.org/abs/1512.02325). 
 
-<p float="center">
-  <img src="SSD_architecture.jpg" width="520" />
-</p>
+
+![](SSD_architecture.jpg)
 
 ## Object Detection notions
 

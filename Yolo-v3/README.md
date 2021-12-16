@@ -1,9 +1,7 @@
 # YOLO Implementation
 This part includes the Pytorch implementation of YOLO-v1 architecture for object detection publised by [Redmon et Farhadi](https://arxiv.org/abs/1804.02767).
 
-<p float="center">
-  <img src="yolov3_architecture.png" width="520" />
-</p>
+![](yolov3_architecture.png)
 
 ## Introduction
 YOLO-v3 (You only look once) is one of the most popular deep learning models extensively used for object detection, semantic segmentation, and image classification.
@@ -45,4 +43,4 @@ Next step is to download your dataset and change the path directory. And then en
 
 
 # Acknowledgment
-[3epochs](https://github.com/3epochs/you-only-look-once).
+Thanks to the implementation done by [3epochs](https://github.com/3epochs/you-only-look-once).
